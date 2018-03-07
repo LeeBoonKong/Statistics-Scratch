@@ -1,5 +1,4 @@
 # Statistics-Scratch
-<<<<<<< HEAD
 implement statistical models from scratch
 
 ## Implementation
@@ -22,6 +21,3 @@ Will update overtime.
 Linear regression 3D
 
 ![alt text](results/linear3d.png)
-=======
-implement statistics models from scratch
->>>>>>> 7daa501812b948dbed0996b76bdada59293e301b
