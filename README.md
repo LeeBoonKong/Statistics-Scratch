@@ -12,6 +12,14 @@ implement statistical models from scratch
 #### Linear Regression
  1. Least Square (1 feature, 2 features)
 
+#### Value scaling
+ 1. Min-Max scaling
+ 2. Standardization
+ 3. Normalization L1
+ 4. Normalization L2
+ 5. Normalization Max
+ 6. Robust Interquantile
+
 ## Discussion
 
 Will update overtime.
@@ -21,3 +29,4 @@ Will update overtime.
 Linear regression 3D
 
 ![alt text](results/linear3d.png)
+![alt text](results/scaling.png)
