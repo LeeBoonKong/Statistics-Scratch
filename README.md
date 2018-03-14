@@ -7,7 +7,10 @@ implement statistical models from scratch
  1. simple binomial
  2. expected value
  3. chi-square
- 4. metric study (mean, median, standard deviation, coviariance, correlation)
+ 4. metric study (mean, median, standard deviation, covariance, correlation)
+ 5. introduction to probability
+ 6. conditional probability
+ 7. independent probability
 
 #### Linear Regression
  1. Least Square (1 feature, 2 features)
@@ -19,6 +22,8 @@ implement statistical models from scratch
  4. Normalization L2
  5. Normalization Max
  6. Robust Interquantile
+
+
 
 ## Discussion
 
