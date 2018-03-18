@@ -11,6 +11,8 @@ implement statistical models from scratch
  5. introduction to probability
  6. conditional probability
  7. independent probability
+ 8. hypothesis testing (TODO)
+ 9. Birthday Paradox(TODO)
 
 #### Linear Regression
  1. Least Square (1 feature, 2 features)
